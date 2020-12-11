@@ -1,0 +1,5 @@
+PageObject\LoginPageObject.class
+runners\CucumberTest.class
+steps\VersionPhpStep.class
+com\servicios\rest\AppTest.class
+definitions\VersionPhpDefinition.class
